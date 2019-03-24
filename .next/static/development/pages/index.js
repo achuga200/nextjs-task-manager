@@ -2305,10 +2305,10 @@ module.exports = function isObject(val) {
 
 /***/ }),
 
-/***/ "./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=C%3A%5CUsers%5CFIDELIS%5Ctest-master%5Cpages%5Cindex.js!./":
-/*!********************************************************************************************************************************************************************!*\
-  !*** ./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=C%3A%5CUsers%5CFIDELIS%5Ctest-master%5Cpages%5Cindex.js ***!
-  \********************************************************************************************************************************************************************/
+/***/ "./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=C%3A%5CUsers%5CFIDELIS%5Cdemo%5Cnextjs-task-manager%5Cpages%5Cindex.js!./":
+/*!***********************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=C%3A%5CUsers%5CFIDELIS%5Cdemo%5Cnextjs-task-manager%5Cpages%5Cindex.js ***!
+  \***********************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -6522,7 +6522,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-var _jsxFileName = "C:\\Users\\FIDELIS\\test-master\\pages\\App\\Home.js";
+var _jsxFileName = "C:\\Users\\FIDELIS\\demo\\nextjs-task-manager\\pages\\App\\Home.js";
 
 
 
@@ -6619,7 +6619,7 @@ function (_Component) {
           lineNumber: 50
         },
         __self: this
-      }, "Todo App"), notes, react__WEBPACK_IMPORTED_MODULE_7___default.a.createElement("div", {
+      }, "Task App"), notes, react__WEBPACK_IMPORTED_MODULE_7___default.a.createElement("div", {
         className: "button",
         onClick: this.addNote.bind(this),
         __source: {
@@ -6676,7 +6676,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-var _jsxFileName = "C:\\Users\\FIDELIS\\test-master\\pages\\components\\Note.js";
+var _jsxFileName = "C:\\Users\\FIDELIS\\demo\\nextjs-task-manager\\pages\\components\\Note.js";
 
 
 var Note =
@@ -6725,7 +6725,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var _App_Home__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./App/Home */ "./pages/App/Home.js");
 /* harmony import */ var _styled_global_style__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./styled/global.style */ "./pages/styled/global.style.js");
-var _jsxFileName = "C:\\Users\\FIDELIS\\test-master\\pages\\index.js";
+var _jsxFileName = "C:\\Users\\FIDELIS\\demo\\nextjs-task-manager\\pages\\index.js";
 
 
 
@@ -6758,7 +6758,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 function _templateObject() {
-  var data = Object(_babel_runtime_corejs2_helpers_esm_taggedTemplateLiteral__WEBPACK_IMPORTED_MODULE_0__["default"])(["\n  @import url('https://fonts.googleapis.com/css?family=Raleway:200,300,400,600&subset=latin-ext');\n\n  * {\n    margin: 0px;\n    box-sizing: border-box;\n  }\n\n  body {\n    margin: 0;\n    padding: 0;\n    background: hsl(0, 1%, 81%);\n    font-family: 'Raleway', sans-serif;\n  }\n\n  .container {\n    padding-bottom: 80px;\n  }\n  \n  .header {\n    font-size: 22px;\n    font-weight: bold;\n    font-style: italic;\n    text-align: center;\n    text-transform: uppercase;\n    color: #f1f1f1;\n    background: #595a5c;\n    padding: 40px;\n    border-bottom: 1px solid #474747;\n  }\n  .note {\n    color: #727070;\n    padding: 40px;\n    margin: 20px;\n    background: #fff;\n    border: solid 1px #e9e9e9;\n    cursor: pointer;\n    box-shadow: 0px 0px 14px 0px rgba(0,0,0,0.1);\n    -webkit-box-shadow: 0px 0px 14px 0px rgba(0,0,0,0.1);\n    -moz-box-shadow: 0px 0px 14px 0px rgba(0,0,0,0.1);\n    -webkit-transition:background-color .2s ease-out;\n    -o-transition:background-color .2s ease-out;\n    transition:background-color .2s ease-out\n  }\n  .note:hover {\n    transform: scale(1.02);\n    background-color: #dbb5c7;\n  }\n  .button {\n    position: fixed;\n    z-index: 1;\n    right: 40px;\n    bottom: 40px;\n    width: 50px;\n    height: 50px;\n    border-radius: 20%;\n    text-align: center;\n    line-height: 50px;\n    font-size: 28px;\n    font-weight: bold;\n    color: #f1f1f1;\n    background: #595a5c;\n    cursor: pointer;\n    box-shadow: 5px 5px 6px 0px rgba(0,0,0,0.8);\n    -webkit-box-shadow: 5px 5px 6px 0px rgba(0,0,0,0.8);\n    -moz-box-shadow: 5px 5px 6px 0px rgba(0,0,0,0.8);\n    transition: transform .06s ease;\n  }\n  .button:hover {\n    transform: scale(1.05);\n  }\n  .input {\n    position: fixed;\n    bottom: 0;\n    width: 100%;\n    height: 80px;\n    line-height: 80px;\n    padding: 0 20px;\n    border: none;\n    outline: none;\n    background: #595a5c;\n    font-size: 16px;\n    color: #f1f1f1;\n    border-top: 1px solid #474747;\n  }\n\n"]);
+  var data = Object(_babel_runtime_corejs2_helpers_esm_taggedTemplateLiteral__WEBPACK_IMPORTED_MODULE_0__["default"])(["\n  @import url('https://fonts.googleapis.com/css?family=Raleway:200,300,400,600&subset=latin-ext');\n\n  * {\n    margin: 0px;\n    box-sizing: border-box;\n  }\n\n  body {\n    margin: 0;\n    padding: 0;\n    background: hsl(0, 1%, 81%);\n    font-family: 'Raleway', sans-serif;\n  }\n\n  .container {\n    padding-bottom: 80px;\n  }\n  \n  .header {\n    font-size: 22px;\n    font-weight: bold;\n    font-style: italic;\n    text-align: center;\n    text-transform: uppercase;\n    color: #f1f1f1;\n    background: #000080;\n    padding: 20px;\n    border-bottom: 1px solid #474747;\n  }\n  .note {\n    color: #727070;\n    padding: 40px;\n    margin: 20px;\n    background: #fff;\n    border: solid 1px #e9e9e9;\n    cursor: pointer;\n    box-shadow: 0px 0px 14px 0px rgba(0,0,0,0.1);\n    -webkit-box-shadow: 0px 0px 14px 0px rgba(0,0,0,0.1);\n    -moz-box-shadow: 0px 0px 14px 0px rgba(0,0,0,0.1);\n    -webkit-transition:background-color .2s ease-out;\n    -o-transition:background-color .2s ease-out;\n    transition:background-color .2s ease-out\n  }\n  .note:hover {\n    transform: scale(1.02);\n    background-color: #FFFFFF;\n  }\n  .button {\n    position: fixed;\n    z-index: 1;\n    right: 40px;\n    bottom: 40px;\n    width: 50px;\n    height: 50px;\n    border-radius: 20%;\n    text-align: center;\n    line-height: 50px;\n    font-size: 28px;\n    font-weight: bold;\n    color: #f1f1f1;\n    background: #595a5c;\n    cursor: pointer;\n    box-shadow: 5px 5px 6px 0px rgba(0,0,0,0.8);\n    -webkit-box-shadow: 5px 5px 6px 0px rgba(0,0,0,0.8);\n    -moz-box-shadow: 5px 5px 6px 0px rgba(0,0,0,0.8);\n    transition: transform .06s ease;\n  }\n  .button:hover {\n    transform: scale(1.05);\n  }\n  .input {\n    position: fixed;\n    bottom: 0;\n    width: 100%;\n    height: 80px;\n    line-height: 80px;\n    padding: 0 20px;\n    border: none;\n    outline: none;\n    background: #595a5c;\n    font-size: 16px;\n    color: #f1f1f1;\n    border-top: 1px solid #474747;\n  }\n\n"]);
 
   _templateObject = function _templateObject() {
     return data;
@@ -6773,13 +6773,13 @@ Object(styled_components__WEBPACK_IMPORTED_MODULE_1__["injectGlobal"])(_template
 /***/ }),
 
 /***/ 1:
-/*!************************************************************************************************************************!*\
-  !*** multi next-client-pages-loader?page=%2F&absolutePagePath=C%3A%5CUsers%5CFIDELIS%5Ctest-master%5Cpages%5Cindex.js ***!
-  \************************************************************************************************************************/
+/*!***************************************************************************************************************************************!*\
+  !*** multi next-client-pages-loader?page=%2F&absolutePagePath=C%3A%5CUsers%5CFIDELIS%5Cdemo%5Cnextjs-task-manager%5Cpages%5Cindex.js ***!
+  \***************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! next-client-pages-loader?page=%2F&absolutePagePath=C%3A%5CUsers%5CFIDELIS%5Ctest-master%5Cpages%5Cindex.js! */"./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=C%3A%5CUsers%5CFIDELIS%5Ctest-master%5Cpages%5Cindex.js!./");
+module.exports = __webpack_require__(/*! next-client-pages-loader?page=%2F&absolutePagePath=C%3A%5CUsers%5CFIDELIS%5Cdemo%5Cnextjs-task-manager%5Cpages%5Cindex.js! */"./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=C%3A%5CUsers%5CFIDELIS%5Cdemo%5Cnextjs-task-manager%5Cpages%5Cindex.js!./");
 
 
 /***/ }),

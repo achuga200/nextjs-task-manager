@@ -47,7 +47,7 @@ class Home extends Component {
 
     return (
       <div className="container">
-        <div className="header">Todo App</div>
+        <div className="header">Task App</div>
         {notes}
         <div className="button" onClick={this.addNote.bind(this)}>+</div>
         <input placeholder="Enter Notes" type="text" className="input"

@@ -26,8 +26,8 @@ injectGlobal`
     text-align: center;
     text-transform: uppercase;
     color: #f1f1f1;
-    background: #595a5c;
-    padding: 40px;
+    background: #000080;
+    padding: 20px;
     border-bottom: 1px solid #474747;
   }
   .note {
@@ -46,7 +46,7 @@ injectGlobal`
   }
   .note:hover {
     transform: scale(1.02);
-    background-color: #dbb5c7;
+    background-color: #FFFFFF;
   }
   .button {
     position: fixed;
