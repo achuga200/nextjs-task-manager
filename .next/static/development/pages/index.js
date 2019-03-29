@@ -14232,7 +14232,7 @@ Object(styled_components__WEBPACK_IMPORTED_MODULE_1__["injectGlobal"])(_template
 
 /***/ }),
 
-/***/ 2:
+/***/ 1:
 /*!*******************************************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2F&absolutePagePath=C%3A%5CUsers%5CFIDELIS%5Cdemo3%5Cchallenge2%5Cpages%5Cindex.js ***!
   \*******************************************************************************************************************************/
@@ -14255,5 +14255,5 @@ module.exports = dll_55dc4e2ecf7824085104;
 
 /***/ })
 
-},[[2,"static/runtime/webpack.js"]]]));;
+},[[1,"static/runtime/webpack.js"]]]));;
 //# sourceMappingURL=index.js.map
