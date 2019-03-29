@@ -1,8 +1,9 @@
 import React, { Component } from 'react';
 import Note from "../components/Note";
+import fetch from 'isomorphic-unfetch'
 
 class Home extends Component {
-
+ 
   constructor(props) {
     super(props);
     this.state= {
@@ -47,7 +48,7 @@ class Home extends Component {
 
     return (
       <div className="container">
-        <div className="header">Task App</div>
+        <div className="header">Task App</div>  
         {notes}
         <div className="button" onClick={this.addNote.bind(this)}>+</div>
         <input placeholder="Enter Notes" type="text" className="input"
